@@ -14,16 +14,7 @@ to visualize and manage data over dapps.
 
 👉[Try Identity Computer](https://dataverse-os.com)
 
-## Ecosystem
-### Playground
-Playground is a web3 twitter prototype built on top of DataverseOS. It's a place to create posts and earn from them.
-
-👉[Try Playground](https://playground.dataverse-os.com)
-
-### Arazzo
-Arazzo is a note-taking app built on top of DataverseOS. It's a place to create notes and share them with others.
-
-## SDKs
+### SDKs
 - [create-dataverse-app](https://www.npmjs.com/package/create-dataverse-app): A framework to help create an app on DataverseOS and customize data models.
 - [runtime-connector](https://www.npmjs.com/package/@dataverse/runtime-connector): A TypeScript SDK to help interact with DataverseOS runtime.
 
