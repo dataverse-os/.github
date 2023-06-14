@@ -21,6 +21,8 @@ to visualize and manage data over dapps.
 ## Lean More
 🛠️ Checkout our developer documentation [here](https://docs.dataverse-os.com).
 
+💡 Hackathon cheat sheet [here](https://ownershiplabs.notion.site/Hackathon-Cheat-Sheet-cb7ff7903ed0469e8d4eee2cef32b510#f6ce58b4141e43b28c8f134e1c83e668).
+
 🌐 Learn more from our [website](https://dataverse-os.com).
 
 🙋‍♀️ Join our [Discord](https://discord.gg/BnCek4e6ny) community.
