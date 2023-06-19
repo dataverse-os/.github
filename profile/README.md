@@ -1,22 +1,11 @@
-# Introduction
+# Wallet = Computer
 
-DataverseOS is a web3-native operating system. It provides secure cyberspace for users and a world-class data layer for developers with programmability, scalability, and interoperability to power the next generation of decentralized applications. Our vision is to reform today's centralized internet, help users own their data and control their digital identity. 
+DataverseOS is a Web3-native data operating system driven by digital wallet. It provides an [Identity Computer](https://dataverse-os.com) for users to maintain data ownership and identity sovereignty, and a programmable data layer for developers to create next-generation storage dApps with web scalability and interoperability. Our vision is to reform today's centralized internet towards a user-owned, autonomous world.
 
-## Products
-### Data Wallet
-Data Wallet is a wallet extension to help users manage their data and digital identity safely.
+## Data Wallet
+Data Wallet Plugin is the gateway to access personal computer on the cloud. It secures user identity and data, and exposes SystemCalls to web3 dApps.
 
-👉[Download Data Wallet](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead)
-
-### Identity Computer
-Identity Computer is a personal computer on the cloud, decentralized and owner by user identity. It's a place
-to visualize and manage data over dapps.
-
-👉[Try Identity Computer](https://dataverse-os.com)
-
-### SDKs
-- [create-dataverse-app](https://www.npmjs.com/package/create-dataverse-app): A framework to help create an app on DataverseOS and customize data models.
-- [runtime-connector](https://www.npmjs.com/package/@dataverse/runtime-connector): A TypeScript SDK to help interact with DataverseOS runtime.
+👉[Download Chrome Plugin](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead)
 
 ## Lean More
 🛠️ Checkout our developer documentation [here](https://docs.dataverse-os.com).
