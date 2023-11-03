@@ -1,20 +1,24 @@
-# Wallet = Computer
+# Wallet as Sovereign Computer
 
-DataverseOS is an Internet Data Operating System that powers next-generation personal computers and supports sovereign data dApps. We build it to assist individuals to take back control of their data and privacy, break free from centralized platforms, and reshape the internet towards a user-centric, autonomous world.
+DataverseOS brings a new data paradigm for individuals to regain control over personal data using a single wallet. The core is an Internet Data Operating System, which transforms browser & wallet into self-sovereign computer and run web-scale DApps over decentralized stacks. 
 
-## Data Wallet
-Data Wallet extension is the gateway to access personal computer on the cloud. It secures user identity and data, and exposes SystemCalls to web3 dApps.
+## Dataverse Wallet
 
-👉[Download Chrome Plugin](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead)
+Data Wallet is the gateway to your own computer. It is built upon Sign-In-with-Ethereum Standard and Object Capability, allowing users to control encryption keys over data files through Decentralized Key Management and Databases. 
 
-## Dataverse Hyper Cloud
-Dataverse Cloud is a decentralized cloud-based personal drive. It serves as a private cyber space for individuals and also provides a scalable, secure storage solution for dApps. Your interactions with applications generate data, and the data is stored in your personal drive. It's fully controlled by your wallet and applications will be revolving around you because they need your consent for accessing your data.
+👉 [Try Browser Extension](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead)
 
-## SDK
-The OS can be extended by dApps. We provide a SDK for developers to build dApps on top of the OS. This could ease the development of dApps by providing storage, identity, encryption, monetization solutions and enhance UX by uniting different applications.
+## Dataverse HyperCloud
+
+Not a single decentralized Dropbox, Dataverse HyperCloud is a set of DApp clouds with fine-grained resource control, ensuring cross-app data security. It serves as secure cyberspace & a sovereign web built for individuals —— your digital footprints are automatically stored in encrypted clouds. 
+
+## Dataverse Connector SDKs
+
+The operating system exposes programmable runtimes to DApps. Developers can integrate built-in identity, storage, encryption and monetization solutions to power web3 social networks, cloud storage, DAOs, AI data marketplaces and more.
 
 ## Dataverse Network
-With ownership ensured, everyone should be able to monetize their data. Dataverse Network is designed to bridge the gap between off-chain personal data and on-chain DeFi. It powers trustless data marketplace by enabling smart contracts to verify the authenticity of off-chain data.
+
+Our vision is to secure individuals' data ownership and unlock data economy, so everyone can stand a chance to monetize data value. Dataverse Network is designed to tokenize data generated over computer, and create composable data legos to bridge the gap between off-chain personal data and on-chain DeFi.
 
 ## Lean More
 🛠️ Checkout our developer documentation [here](https://docs.dataverse-os.com).
