@@ -1,6 +1,6 @@
 ## Wallet as Sovereign Computer
 
-DataverseOS brings a new data paradigm for individuals to regain control over personal data using a single wallet. The core is an Internet Data Operating System, which transforms browser & wallet into self-sovereign computer and run web-scale DApps over decentralized stacks. 
+DataverseOS brings a new data paradigm for individuals to regain control over personal data using a single wallet. The core is an Internet Kernel, which transforms browser & wallet into self-sovereign computer and run web-scale DApps over decentralized stacks. 
 
 ### Dataverse Wallet
 
@@ -18,7 +18,7 @@ The operating system exposes programmable runtimes to DApps. Developers can inte
 
 ### Dataverse Network
 
-Our vision is to secure individuals' data ownership and unlock data economy, so everyone can stand a chance to monetize data value. Dataverse Network is designed to tokenize data generated over computer, and create composable data legos to bridge the gap between off-chain personal data and on-chain DeFi.
+Our vision is to secure individuals' data ownership and unlock data economy, so everyone can stand a chance to monetize data value. Dataverse Network is designed to tokenize data generated over computer, and create composable data legos to bridge the gap between off-chain personal data and on-chain DeFi. It will be a public network that allows different kinds of wallets to access.
 
 ## Lean More
 🛠️ Checkout our developer documentation [here](https://docs.dataverse-os.com).
