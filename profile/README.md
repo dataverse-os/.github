@@ -1,22 +1,10 @@
-## Wallet as Sovereign Computer
+## Unlock Data Economy
 
-DataverseOS brings a new data paradigm for individuals to regain control over personal data using a single wallet. The core is an Internet Kernel, which transforms browser into self-sovereign computer and run web-scale DApps over decentralized stacks. 
+A new kind of personal cloud & computing system, powered by Internet Data Operating System. DataverseOS brings a new data paradigm for individuals to regain control over personal data and stand a change to monetize data (i.e. access rights and computation).
 
-### Data Wallet
+The core is an Internet Kernel, which transforms wallet & browser into self-sovereign computer and runs web-scale DApps over decentralized stacks. By leveraging Data Computing Oracle, developers can create verifiable compute-to-data pipelines, bringing composable data legos for users to tokenize off-chain data using smart contracts. 
 
-[Dataverse Extension](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead) is the first gateway to your own computer. It is built upon Sign-In-with-Ethereum and Object Capability, allowing users to control encryption keys over data files through Decentralized Key Management and Databases. 
-
-### HyperCloud
-
-Dataverse HyperCloud is a set of DApp clouds with fine-grained resource control, ensuring cross-app data security. It serves as secure cyberspace & sovereign web for individuals —— your digital footprints are automatically stored in encrypted clouds. 
-
-### Runtime Connector
-
-The operating system exposes programmable runtimes to DApps. Developers can integrate built-in identity, storage, encryption and monetization solutions to power web3 social networks, cloud storage, DAOs, AI data marketplaces and more.
-
-### Dataverse Network
-
-Our vision is to secure individuals' data ownership and unlock data economy, so everyone can stand a chance to monetize data value. Dataverse Network is designed to tokenize data generated over computer, and create composable data legos to bridge the gap between off-chain personal data and on-chain DeFi. It will be a public network that allows different kinds of wallets to access.
+[Meteor](https://github.com/meteor-web3) | [Pyra](https://github.com/pyra-marketplace) | [Orbit](https://github.com/orbit-web3)
 
 ## Lean More
 🛠️ Checkout our developer documentation [here](https://docs.dataverse-os.com).
@@ -27,4 +15,4 @@ Our vision is to secure individuals' data ownership and unlock data economy, so 
 
 🌐 Learn more from our [website](https://dataverse-os.com).
 
-🙋‍♀️ Join our [Discord](https://discord.gg/BnCek4e6ny) community.
+🙋‍♀️ Join our [Telegram](https://t.me/dataverse_city) community.
