@@ -1,6 +1,6 @@
 ## Unlock Data Economy
 
-A new kind of personal cloud & computing system, powered by Internet Data Operating System. DataverseOS brings a new data paradigm for individuals to regain control over personal data and stand a change to monetize data (i.e. access rights and computation).
+A new kind of personal cloud & computing system, powered by Internet Data Operating System. DataverseOS brings a new data paradigm for individuals to regain control over personal data and stand a chance to monetize data (i.e. access rights and computation).
 
 The core is an Internet Kernel, which transforms wallet & browser into self-sovereign computer and runs web-scale DApps over decentralized stacks. By leveraging Data Computing Oracle, developers can create verifiable compute-to-data pipelines, bringing composable data legos for users to tokenize off-chain data using smart contracts. 
 
